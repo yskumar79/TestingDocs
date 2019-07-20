@@ -1,0 +1,12 @@
+<story path="stories/consult_dictionary/LookUpMathematicalWords.story" title="Lookup a definition">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">do Mathematics better</inOrderTo>
+  <asA keyword="As a">n Maths student</asA>
+  <iWantTo keyword="I want to">look up math word definitions</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Looking up the definition of &apos;cosine&apos;">
+<step outcome="successful">Given the user is on the Wikionary home page</step>
+<step outcome="successful">When the user looks up the definition of the word &apos;cosine&apos;</step>
+<step outcome="successful">Then they should see the definition &apos;In a right triangle, the ratio of the length of the side adjacent to an acute angle to the length of the hypotenuse.&apos;</step>
+</scenario>
+</story>

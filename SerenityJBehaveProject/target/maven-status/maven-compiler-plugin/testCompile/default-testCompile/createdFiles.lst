@@ -1,0 +1,4 @@
+com\testingdocs\serenity\steps\serenity\EndUserSteps.class
+com\testingdocs\serenity\AcceptanceTestSuite.class
+com\testingdocs\serenity\pages\DictionaryPage.class
+com\testingdocs\serenity\steps\DefinitionSteps.class

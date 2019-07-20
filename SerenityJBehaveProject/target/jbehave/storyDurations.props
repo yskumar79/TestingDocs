@@ -1,0 +1,7 @@
+#org.jbehave.core.embedder.StoryManager
+#Sat Jul 20 21:27:56 IST 2019
+stories/consult_dictionary/LookUpMathematicalWords.story=31000
+threads=1
+total=77000
+threadAverage=77000
+stories/consult_dictionary/LookupADefinition.story=46000
