@@ -1,7 +1,7 @@
 Lookup a definition
 Narrative:
 In order to do Mathematics better
-As an Maths student
+As a Maths student
 I want to look up math word definitions
 
 Scenario: Looking up the definition of 'cosine'
